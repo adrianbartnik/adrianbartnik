@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="./background.jpg" height="75px"/></a>
+<img width="100%" height="auto" src="./header.jpg" height="75px"/>
 
 ## Hi there 👋  I'm Adrian
 
